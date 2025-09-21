@@ -1,6 +1,6 @@
 * ML Classification Web App using Flask
 
-This Flask web application allows users to make predictions using multiple machine learning models trained on a CSV dataset. It supports form-based input, REST API requests, and batch predictions from CSV uploads.
+This Flask web application allows users to make predictions using multiple machine learning models trained on a CSV dataset. It supports form-based input, REST API requests, and batch predictions from CSV uploads .
 
 # Features
 
